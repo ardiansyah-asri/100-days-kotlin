@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Kotlin Code - Log 
 
 
 ![alt text](https://miro.medium.com/max/311/1*3T_W1dMbDAYkClPejRAUIw.png)
